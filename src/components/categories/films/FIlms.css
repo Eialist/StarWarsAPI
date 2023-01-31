@@ -138,6 +138,16 @@ p .category {
     margin-top: -0.1em; 
     text-align: center;
 }
+
+.data-div p:first-child{
+    margin-top: 0.3em; 
+}
+
+.data-div p {
+    text-align: center;
+    margin-left: 9em;
+}
+
 .loading-error{
     position: absolute; 
     top: 40%;
