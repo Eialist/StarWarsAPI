@@ -132,10 +132,10 @@ p .category {
 }
 
 .data-div {
-    font-size: 0.95em;
+    font-size: .9em;
     display: block;
     margin-left: -2em;
-    margin-top: -0.1em; 
+    margin-top: -1.2em; 
     text-align: center;
 }
 .loading-error{
